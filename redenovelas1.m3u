@@ -1,4 +1,457 @@
 #EXTM3U
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://image.tmdb.org/t/p/w500/kwdaf7SxJjJfq9iI5YBYLRDcFVB.jpg", [SERIE] A Regra do Jogo (2015)
+#SINOPSE: A novela narra a história de Romero Rômulo, um bandido que finge ser herói do povo e defensor dos direitos humanos. Poucos sabem que ele integra a maior facção criminosa do país.
+#EPISODIO: S01E01 - A Outra Face|https://redeflixapi.store/serie/63817/1/1
+#EPISODIO: S01E02 - Bandido Pobre|https://redeflixapi.store/serie/63817/1/2
+#EPISODIO: S01E03 - Samambaia|https://redeflixapi.store/serie/63817/1/3
+#EPISODIO: S01E04 - Quem é Você?|https://redeflixapi.store/serie/63817/1/4
+#EPISODIO: S01E05 - O Injustiçado|https://redeflixapi.store/serie/63817/1/5
+#EPISODIO: S01E06 - Amor de Mãe|https://redeflixapi.store/serie/63817/1/6
+#EPISODIO: S01E07 - O Peso de uma Dúvida|https://redeflixapi.store/serie/63817/1/7
+#EPISODIO: S01E08 - Infiltrado|https://redeflixapi.store/serie/63817/1/8
+#EPISODIO: S01E09 - Queima de Arquivo|https://redeflixapi.store/serie/63817/1/9
+#EPISODIO: S01E10 - Muito Prazer|https://redeflixapi.store/serie/63817/1/10
+#EPISODIO: S01E11 - Lobo no Galinheiro|https://redeflixapi.store/serie/63817/1/11
+#EPISODIO: S01E12 - Saudade é pros Fracos|https://redeflixapi.store/serie/63817/1/12
+#EPISODIO: S01E13 - A Isca|https://redeflixapi.store/serie/63817/1/13
+#EPISODIO: S01E14 - Cem Anos de Perdão|https://redeflixapi.store/serie/63817/1/14
+#EPISODIO: S01E15 - Eu Gosto do Perigo|https://redeflixapi.store/serie/63817/1/15
+#EPISODIO: S01E16 - Francineide|https://redeflixapi.store/serie/63817/1/16
+#EPISODIO: S01E17 - Telhado de Vidro|https://redeflixapi.store/serie/63817/1/17
+#EPISODIO: S01E18 - O Travesseiro|https://redeflixapi.store/serie/63817/1/18
+#EPISODIO: S01E19 - Pé de Coelho|https://redeflixapi.store/serie/63817/1/19
+#EPISODIO: S01E20 - Pobres Otários|https://redeflixapi.store/serie/63817/1/20
+#EPISODIO: S01E21 - Vai me Matar ou Posso Pedir um Drink?|https://redeflixapi.store/serie/63817/1/21
+#EPISODIO: S01E22 - Vaca Maldita|https://redeflixapi.store/serie/63817/1/22
+#EPISODIO: S01E23 - Convidada da Mamãe|https://redeflixapi.store/serie/63817/1/23
+#EPISODIO: S01E24 - Volte uma Casa|https://redeflixapi.store/serie/63817/1/24
+#EPISODIO: S01E25 - A Invasora|https://redeflixapi.store/serie/63817/1/25
+#EPISODIO: S01E26 - Namoradinha|https://redeflixapi.store/serie/63817/1/26
+#EPISODIO: S01E27 - Duro Golpe|https://redeflixapi.store/serie/63817/1/27
+#EPISODIO: S01E28 - Jogada Ensaiada|https://redeflixapi.store/serie/63817/1/28
+#EPISODIO: S01E29 - Um Velho Irmão|https://redeflixapi.store/serie/63817/1/29
+#EPISODIO: S01E30 - A Casa do Pai|https://redeflixapi.store/serie/63817/1/30
+#EPISODIO: S01E31 - Sem Chão|https://redeflixapi.store/serie/63817/1/31
+#EPISODIO: S01E32 - Encarando o Diabo|https://redeflixapi.store/serie/63817/1/32
+#EPISODIO: S01E33 - O Canto da Sereia|https://redeflixapi.store/serie/63817/1/33
+#EPISODIO: S01E34 - Abraço Falso|https://redeflixapi.store/serie/63817/1/34
+#EPISODIO: S01E35 - Moreninha|https://redeflixapi.store/serie/63817/1/35
+#EPISODIO: S01E36 - Mar Aberto|https://redeflixapi.store/serie/63817/1/36
+#EPISODIO: S01E37 - Eurídice|https://redeflixapi.store/serie/63817/1/37
+#EPISODIO: S01E38 - Viver Pra Te Ver De Novo|https://redeflixapi.store/serie/63817/1/38
+#EPISODIO: S01E39 - Filho Pródigo|https://redeflixapi.store/serie/63817/1/39
+#EPISODIO: S01E40 - Sofia|https://redeflixapi.store/serie/63817/1/40
+#EPISODIO: S01E41 - O Começo do Fim|https://redeflixapi.store/serie/63817/1/41
+#EPISODIO: S01E42 - Bodas de Sangue|https://redeflixapi.store/serie/63817/1/42
+#EPISODIO: S01E43 - Cristal Partido|https://redeflixapi.store/serie/63817/1/43
+#EPISODIO: S01E44 - Na Toca do Lobo|https://redeflixapi.store/serie/63817/1/44
+#EPISODIO: S01E45 - A Escolha|https://redeflixapi.store/serie/63817/1/45
+#EPISODIO: S01E46 - Nem Tão Mal Assim|https://redeflixapi.store/serie/63817/1/46
+#EPISODIO: S01E47 - Um Beijo Antes de Morrer|https://redeflixapi.store/serie/63817/1/47
+#EPISODIO: S01E48 - Adivinha Quem Voltou?|https://redeflixapi.store/serie/63817/1/48
+#EPISODIO: S01E49 - Amor Bandido|https://redeflixapi.store/serie/63817/1/49
+#EPISODIO: S01E50 - Filho Meu|https://redeflixapi.store/serie/63817/1/50
+#EPISODIO: S01E51 - Pai Herói|https://redeflixapi.store/serie/63817/1/51
+#EPISODIO: S01E52 - O Assalto|https://redeflixapi.store/serie/63817/1/52
+#EPISODIO: S01E53 - Genivaldo|https://redeflixapi.store/serie/63817/1/53
+#EPISODIO: S01E54 - Um Homem Bom|https://redeflixapi.store/serie/63817/1/54
+#EPISODIO: S01E55 - Inimigo Próximo|https://redeflixapi.store/serie/63817/1/55
+#EPISODIO: S01E56 - Pai Bandido|https://redeflixapi.store/serie/63817/1/56
+#EPISODIO: S01E57 - Eu Errei|https://redeflixapi.store/serie/63817/1/57
+#EPISODIO: S01E58 - Batom na Cueca|https://redeflixapi.store/serie/63817/1/58
+#EPISODIO: S01E59 - Festa de Arromba|https://redeflixapi.store/serie/63817/1/59
+#EPISODIO: S01E60 - Até Tu?|https://redeflixapi.store/serie/63817/1/60
+#EPISODIO: S01E61 - E Agora, Romero?|https://redeflixapi.store/serie/63817/1/61
+#EPISODIO: S01E62 - Campo Minado|https://redeflixapi.store/serie/63817/1/62
+#EPISODIO: S01E63 - A Metade da Laranja|https://redeflixapi.store/serie/63817/1/63
+#EPISODIO: S01E64 - Pedra no Rim|https://redeflixapi.store/serie/63817/1/64
+#EPISODIO: S01E65 - Da Minha Natureza|https://redeflixapi.store/serie/63817/1/65
+#EPISODIO: S01E66 - Encruzilhada|https://redeflixapi.store/serie/63817/1/66
+#EPISODIO: S01E67 - Humilhação|https://redeflixapi.store/serie/63817/1/67
+#EPISODIO: S01E68 - RR|https://redeflixapi.store/serie/63817/1/68
+#EPISODIO: S01E69 - Calcanhar de Aquiles|https://redeflixapi.store/serie/63817/1/69
+#EPISODIO: S01E70 - Território Sitiado|https://redeflixapi.store/serie/63817/1/70
+#EPISODIO: S01E71 - Santo Expedito|https://redeflixapi.store/serie/63817/1/71
+#EPISODIO: S01E72 - Deu Ruim|https://redeflixapi.store/serie/63817/1/72
+#EPISODIO: S01E73 - Menina de Ouro|https://redeflixapi.store/serie/63817/1/73
+#EPISODIO: S01E74 - Parabéns pra Você|https://redeflixapi.store/serie/63817/1/74
+#EPISODIO: S01E75 - Linha de Tiro|https://redeflixapi.store/serie/63817/1/75
+#EPISODIO: S01E76 - Desvio de Rota|https://redeflixapi.store/serie/63817/1/76
+#EPISODIO: S01E77 - Entre o Bem e o Mal|https://redeflixapi.store/serie/63817/1/77
+#EPISODIO: S01E78 - Até que a Morte nos Separe|https://redeflixapi.store/serie/63817/1/78
+#EPISODIO: S01E79 - Comida de Peixe|https://redeflixapi.store/serie/63817/1/79
+#EPISODIO: S01E80 - A Hora da Virada|https://redeflixapi.store/serie/63817/1/80
+#EPISODIO: S01E81 - Língua de Serpente|https://redeflixapi.store/serie/63817/1/81
+#EPISODIO: S01E82 - Vara Curta|https://redeflixapi.store/serie/63817/1/82
+#EPISODIO: S01E83 - Com Quem Será?|https://redeflixapi.store/serie/63817/1/83
+#EPISODIO: S01E84 - Teste de Fidelidade|https://redeflixapi.store/serie/63817/1/84
+#EPISODIO: S01E85 - Quebra de Parceria|https://redeflixapi.store/serie/63817/1/85
+#EPISODIO: S01E86 - Fim de Jogo|https://redeflixapi.store/serie/63817/1/86
+#EPISODIO: S01E87 - Eu Te Amo|https://redeflixapi.store/serie/63817/1/87
+#EPISODIO: S01E88 - Sombras do Passado|https://redeflixapi.store/serie/63817/1/88
+#EPISODIO: S01E89 - O Grande Segredo|https://redeflixapi.store/serie/63817/1/89
+#EPISODIO: S01E90 - Olhando pela Fechadura|https://redeflixapi.store/serie/63817/1/90
+#EPISODIO: S01E91 - Abre a Porta pra Mim|https://redeflixapi.store/serie/63817/1/91
+#EPISODIO: S01E92 - Colega de Quarto|https://redeflixapi.store/serie/63817/1/92
+#EPISODIO: S01E93 - Em Nome do Pai|https://redeflixapi.store/serie/63817/1/93
+#EPISODIO: S01E94 - Tarde Demais|https://redeflixapi.store/serie/63817/1/94
+#EPISODIO: S01E95 - A Cativa Que Me Mantém Cativo|https://redeflixapi.store/serie/63817/1/95
+#EPISODIO: S01E96 - Falso Marido|https://redeflixapi.store/serie/63817/1/96
+#EPISODIO: S01E97 - Ubiraci|https://redeflixapi.store/serie/63817/1/97
+#EPISODIO: S01E98 - O Pai da Noiva|https://redeflixapi.store/serie/63817/1/98
+#EPISODIO: S01E99 - A Hora do Sim|https://redeflixapi.store/serie/63817/1/99
+#EPISODIO: S01E100 - Virando a Mesa|https://redeflixapi.store/serie/63817/1/100
+#EPISODIO: S01E101 - Ho Ho Ho!|https://redeflixapi.store/serie/63817/1/101
+#EPISODIO: S01E102 - Volta Pra Mim|https://redeflixapi.store/serie/63817/1/102
+#EPISODIO: S01E103 - Caixa de Bombom|https://redeflixapi.store/serie/63817/1/103
+#EPISODIO: S01E104 - Flagrante Delito|https://redeflixapi.store/serie/63817/1/104
+#EPISODIO: S01E105 - Hora da Verdade|https://redeflixapi.store/serie/63817/1/105
+#EPISODIO: S01E106 - Lama no Pescoço|https://redeflixapi.store/serie/63817/1/106
+#EPISODIO: S01E107 - Bode Expiatório|https://redeflixapi.store/serie/63817/1/107
+#EPISODIO: S01E108 - Na Mira|https://redeflixapi.store/serie/63817/1/108
+#EPISODIO: S01E109 - A Última Ceia|https://redeflixapi.store/serie/63817/1/109
+#EPISODIO: S01E110 - Feliz Ano Novo|https://redeflixapi.store/serie/63817/1/110
+#EPISODIO: S01E111 - É Pegar ou Largar|https://redeflixapi.store/serie/63817/1/111
+#EPISODIO: S01E112 - Gata Borralheira|https://redeflixapi.store/serie/63817/1/112
+#EPISODIO: S01E113 - Herança Maldita|https://redeflixapi.store/serie/63817/1/113
+#EPISODIO: S01E114 - Eu Digo Sim|https://redeflixapi.store/serie/63817/1/114
+#EPISODIO: S01E115 - Volta Ao Lar|https://redeflixapi.store/serie/63817/1/115
+#EPISODIO: S01E116 - Um Grito de Liberdade|https://redeflixapi.store/serie/63817/1/116
+#EPISODIO: S01E117 - Recaída|https://redeflixapi.store/serie/63817/1/117
+#EPISODIO: S01E118 - O Tremor de uma Suspeita|https://redeflixapi.store/serie/63817/1/118
+#EPISODIO: S01E119 - Filho Meu|https://redeflixapi.store/serie/63817/1/119
+#EPISODIO: S01E120 - Asilo Diplomático|https://redeflixapi.store/serie/63817/1/120
+#EPISODIO: S01E121 - A Nova Chacina|https://redeflixapi.store/serie/63817/1/121
+#EPISODIO: S01E122 - Cova Rasa|https://redeflixapi.store/serie/63817/1/122
+#EPISODIO: S01E123 - Elo Perdido|https://redeflixapi.store/serie/63817/1/123
+#EPISODIO: S01E124 - Chá de Panela|https://redeflixapi.store/serie/63817/1/124
+#EPISODIO: S01E125 - Na Cova dos Leões|https://redeflixapi.store/serie/63817/1/125
+#EPISODIO: S01E126 - Álbum de Família|https://redeflixapi.store/serie/63817/1/126
+#EPISODIO: S01E127 - Aqui Se Faz, Aqui Se Paga|https://redeflixapi.store/serie/63817/1/127
+#EPISODIO: S01E128 - As Irmãs|https://redeflixapi.store/serie/63817/1/128
+#EPISODIO: S01E129 - O Inferno de Dante|https://redeflixapi.store/serie/63817/1/129
+#EPISODIO: S01E130 - Abraço Partido|https://redeflixapi.store/serie/63817/1/130
+#EPISODIO: S01E131 - Perto da Verdade|https://redeflixapi.store/serie/63817/1/131
+#EPISODIO: S01E132 - Escambo|https://redeflixapi.store/serie/63817/1/132
+#EPISODIO: S01E133 - Sangue Meu|https://redeflixapi.store/serie/63817/1/133
+#EPISODIO: S01E134 - Em Carne Viva|https://redeflixapi.store/serie/63817/1/134
+#EPISODIO: S01E135 - Dormindo com o Inimigo|https://redeflixapi.store/serie/63817/1/135
+#EPISODIO: S01E136 - Me Perdoa|https://redeflixapi.store/serie/63817/1/136
+#EPISODIO: S01E137 - A Queda|https://redeflixapi.store/serie/63817/1/137
+#EPISODIO: S01E138 - Acerto de Contas|https://redeflixapi.store/serie/63817/1/138
+#EPISODIO: S01E139 - Acabou Romerito|https://redeflixapi.store/serie/63817/1/139
+#EPISODIO: S01E140 - Marcado Para Morrer|https://redeflixapi.store/serie/63817/1/140
+#EPISODIO: S01E141 - Emboscada|https://redeflixapi.store/serie/63817/1/141
+#EPISODIO: S01E142 - O Penetra|https://redeflixapi.store/serie/63817/1/142
+#EPISODIO: S01E143 - Cão Infiel|https://redeflixapi.store/serie/63817/1/143
+#EPISODIO: S01E144 - Lua de Fel|https://redeflixapi.store/serie/63817/1/144
+#EPISODIO: S01E145 - Meu Filho, Meu Tesouro|https://redeflixapi.store/serie/63817/1/145
+#EPISODIO: S01E146 - Bomba Caseira|https://redeflixapi.store/serie/63817/1/146
+#EPISODIO: S01E147 - Ventre Livre|https://redeflixapi.store/serie/63817/1/147
+#EPISODIO: S01E148 - Um é Pouco, Dois é Bom, Três é Demais|https://redeflixapi.store/serie/63817/1/148
+#EPISODIO: S01E149 - A Fraqueza do Carrasco|https://redeflixapi.store/serie/63817/1/149
+#EPISODIO: S01E150 - Pacto Sinistro|https://redeflixapi.store/serie/63817/1/150
+#EPISODIO: S01E151 - Quem Risca o Fósforo?|https://redeflixapi.store/serie/63817/1/151
+#EPISODIO: S01E152 - Culpada|https://redeflixapi.store/serie/63817/1/152
+#EPISODIO: S01E153 - Golpe Baixo|https://redeflixapi.store/serie/63817/1/153
+#EPISODIO: S01E154 - Sociedade Anônima|https://redeflixapi.store/serie/63817/1/154
+#EPISODIO: S01E155 - Vitória na Guerra|https://redeflixapi.store/serie/63817/1/155
+#EPISODIO: S01E156 - Crime e Castigo|https://redeflixapi.store/serie/63817/1/156
+#EPISODIO: S01E157 - Lázaro|https://redeflixapi.store/serie/63817/1/157
+#EPISODIO: S01E158 - Terrível Verdade|https://redeflixapi.store/serie/63817/1/158
+#EPISODIO: S01E159 - O Último a Cair|https://redeflixapi.store/serie/63817/1/159
+#EPISODIO: S01E160 - Prova Viva|https://redeflixapi.store/serie/63817/1/160
+#EPISODIO: S01E161 - Novos Aliados|https://redeflixapi.store/serie/63817/1/161
+#EPISODIO: S01E162 - Ratoeira|https://redeflixapi.store/serie/63817/1/162
+#EPISODIO: S01E163 - Crime na Mansão|https://redeflixapi.store/serie/63817/1/163
+#EPISODIO: S01E164 - Rei Morto, Rei Posto|https://redeflixapi.store/serie/63817/1/164
+#EPISODIO: S01E165 - Na Teia da Aranha|https://redeflixapi.store/serie/63817/1/165
+#EPISODIO: S01E166 - Xeque-Mate|https://redeflixapi.store/serie/63817/1/166
+#EPISODIO: S01E167 - Juízo Final|https://redeflixapi.store/serie/63817/1/167
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://image.tmdb.org/t/p/w500/d61PQsBGfo11FGtG8ynnHT8iJMl.jpg", [SERIE] A Vida da Gente (2011)
+#SINOPSE: Uma linda amizade entre duas irmãs e um amor em comum. Ana entre em coma depois de um acidente e Manu passa a cuidar da sobrinha com Rodrigo. Da convivência, nasce uma paixão.
+#EPISODIO: S01E01 - Capítulo 1|https://redeflixapi.store/serie/59092/1/1
+#EPISODIO: S01E02 - Capítulo 2|https://redeflixapi.store/serie/59092/1/2
+#EPISODIO: S01E03 - Capítulo 3|https://redeflixapi.store/serie/59092/1/3
+#EPISODIO: S01E04 - Capítulo 4|https://redeflixapi.store/serie/59092/1/4
+#EPISODIO: S01E05 - Capítulo 5|https://redeflixapi.store/serie/59092/1/5
+#EPISODIO: S01E06 - Capítulo 6|https://redeflixapi.store/serie/59092/1/6
+#EPISODIO: S01E07 - Capítulo 7|https://redeflixapi.store/serie/59092/1/7
+#EPISODIO: S01E08 - Capítulo 8|https://redeflixapi.store/serie/59092/1/8
+#EPISODIO: S01E09 - Capítulo 9|https://redeflixapi.store/serie/59092/1/9
+#EPISODIO: S01E10 - Capítulo 10|https://redeflixapi.store/serie/59092/1/10
+#EPISODIO: S01E11 - Capítulo 11|https://redeflixapi.store/serie/59092/1/11
+#EPISODIO: S01E12 - Capítulo 12|https://redeflixapi.store/serie/59092/1/12
+#EPISODIO: S01E13 - Capítulo 13|https://redeflixapi.store/serie/59092/1/13
+#EPISODIO: S01E14 - Capítulo 14|https://redeflixapi.store/serie/59092/1/14
+#EPISODIO: S01E15 - Capítulo 15|https://redeflixapi.store/serie/59092/1/15
+#EPISODIO: S01E16 - Capítulo 16|https://redeflixapi.store/serie/59092/1/16
+#EPISODIO: S01E17 - Capítulo 17|https://redeflixapi.store/serie/59092/1/17
+#EPISODIO: S01E18 - Capítulo 18|https://redeflixapi.store/serie/59092/1/18
+#EPISODIO: S01E19 - Capítulo 19|https://redeflixapi.store/serie/59092/1/19
+#EPISODIO: S01E20 - Capítulo 20|https://redeflixapi.store/serie/59092/1/20
+#EPISODIO: S01E21 - Capítulo 21|https://redeflixapi.store/serie/59092/1/21
+#EPISODIO: S01E22 - Capítulo 22|https://redeflixapi.store/serie/59092/1/22
+#EPISODIO: S01E23 - Capítulo 23|https://redeflixapi.store/serie/59092/1/23
+#EPISODIO: S01E24 - Capítulo 24|https://redeflixapi.store/serie/59092/1/24
+#EPISODIO: S01E25 - Capítulo 25|https://redeflixapi.store/serie/59092/1/25
+#EPISODIO: S01E26 - Capítulo 26|https://redeflixapi.store/serie/59092/1/26
+#EPISODIO: S01E27 - Capítulo 27|https://redeflixapi.store/serie/59092/1/27
+#EPISODIO: S01E28 - Capítulo 28|https://redeflixapi.store/serie/59092/1/28
+#EPISODIO: S01E29 - Capítulo 29|https://redeflixapi.store/serie/59092/1/29
+#EPISODIO: S01E30 - Capítulo 30|https://redeflixapi.store/serie/59092/1/30
+#EPISODIO: S01E31 - Capítulo 31|https://redeflixapi.store/serie/59092/1/31
+#EPISODIO: S01E32 - Capítulo 32|https://redeflixapi.store/serie/59092/1/32
+#EPISODIO: S01E33 - Capítulo 33|https://redeflixapi.store/serie/59092/1/33
+#EPISODIO: S01E34 - Capítulo 34|https://redeflixapi.store/serie/59092/1/34
+#EPISODIO: S01E35 - Capítulo 35|https://redeflixapi.store/serie/59092/1/35
+#EPISODIO: S01E36 - Capítulo 36|https://redeflixapi.store/serie/59092/1/36
+#EPISODIO: S01E37 - Capítulo 37|https://redeflixapi.store/serie/59092/1/37
+#EPISODIO: S01E38 - Capítulo 38|https://redeflixapi.store/serie/59092/1/38
+#EPISODIO: S01E39 - Capítulo 39|https://redeflixapi.store/serie/59092/1/39
+#EPISODIO: S01E40 - Capítulo 40|https://redeflixapi.store/serie/59092/1/40
+#EPISODIO: S01E41 - Capítulo 41|https://redeflixapi.store/serie/59092/1/41
+#EPISODIO: S01E42 - Capítulo 42|https://redeflixapi.store/serie/59092/1/42
+#EPISODIO: S01E43 - Capítulo 43|https://redeflixapi.store/serie/59092/1/43
+#EPISODIO: S01E44 - Capítulo 44|https://redeflixapi.store/serie/59092/1/44
+#EPISODIO: S01E45 - Capítulo 45|https://redeflixapi.store/serie/59092/1/45
+#EPISODIO: S01E46 - Capítulo 46|https://redeflixapi.store/serie/59092/1/46
+#EPISODIO: S01E47 - Capítulo 47|https://redeflixapi.store/serie/59092/1/47
+#EPISODIO: S01E48 - Capítulo 48|https://redeflixapi.store/serie/59092/1/48
+#EPISODIO: S01E49 - Capítulo 49|https://redeflixapi.store/serie/59092/1/49
+#EPISODIO: S01E50 - Capítulo 50|https://redeflixapi.store/serie/59092/1/50
+#EPISODIO: S01E51 - Capítulo 51|https://redeflixapi.store/serie/59092/1/51
+#EPISODIO: S01E52 - Capítulo 52|https://redeflixapi.store/serie/59092/1/52
+#EPISODIO: S01E53 - Capítulo 53|https://redeflixapi.store/serie/59092/1/53
+#EPISODIO: S01E54 - Capítulo 54|https://redeflixapi.store/serie/59092/1/54
+#EPISODIO: S01E55 - Capítulo 55|https://redeflixapi.store/serie/59092/1/55
+#EPISODIO: S01E56 - Capítulo 56|https://redeflixapi.store/serie/59092/1/56
+#EPISODIO: S01E57 - Capítulo 57|https://redeflixapi.store/serie/59092/1/57
+#EPISODIO: S01E58 - Capítulo 58|https://redeflixapi.store/serie/59092/1/58
+#EPISODIO: S01E59 - Capítulo 59|https://redeflixapi.store/serie/59092/1/59
+#EPISODIO: S01E60 - Capítulo 60|https://redeflixapi.store/serie/59092/1/60
+#EPISODIO: S01E61 - Capítulo 61|https://redeflixapi.store/serie/59092/1/61
+#EPISODIO: S01E62 - Capítulo 62|https://redeflixapi.store/serie/59092/1/62
+#EPISODIO: S01E63 - Capítulo 63|https://redeflixapi.store/serie/59092/1/63
+#EPISODIO: S01E64 - Capítulo 64|https://redeflixapi.store/serie/59092/1/64
+#EPISODIO: S01E65 - Capítulo 65|https://redeflixapi.store/serie/59092/1/65
+#EPISODIO: S01E66 - Capítulo 66|https://redeflixapi.store/serie/59092/1/66
+#EPISODIO: S01E67 - Capítulo 67|https://redeflixapi.store/serie/59092/1/67
+#EPISODIO: S01E68 - Capítulo 68|https://redeflixapi.store/serie/59092/1/68
+#EPISODIO: S01E69 - Capítulo 69|https://redeflixapi.store/serie/59092/1/69
+#EPISODIO: S01E70 - Capítulo 70|https://redeflixapi.store/serie/59092/1/70
+#EPISODIO: S01E71 - Capítulo 71|https://redeflixapi.store/serie/59092/1/71
+#EPISODIO: S01E72 - Capítulo 72|https://redeflixapi.store/serie/59092/1/72
+#EPISODIO: S01E73 - Capítulo 73|https://redeflixapi.store/serie/59092/1/73
+#EPISODIO: S01E74 - Capítulo 74|https://redeflixapi.store/serie/59092/1/74
+#EPISODIO: S01E75 - Capítulo 75|https://redeflixapi.store/serie/59092/1/75
+#EPISODIO: S01E76 - Capítulo 76|https://redeflixapi.store/serie/59092/1/76
+#EPISODIO: S01E77 - Capítulo 77|https://redeflixapi.store/serie/59092/1/77
+#EPISODIO: S01E78 - Capítulo 78|https://redeflixapi.store/serie/59092/1/78
+#EPISODIO: S01E79 - Capítulo 79|https://redeflixapi.store/serie/59092/1/79
+#EPISODIO: S01E80 - Capítulo 80|https://redeflixapi.store/serie/59092/1/80
+#EPISODIO: S01E81 - Capítulo 81|https://redeflixapi.store/serie/59092/1/81
+#EPISODIO: S01E82 - Capítulo 82|https://redeflixapi.store/serie/59092/1/82
+#EPISODIO: S01E83 - Capítulo 83|https://redeflixapi.store/serie/59092/1/83
+#EPISODIO: S01E84 - Capítulo 84|https://redeflixapi.store/serie/59092/1/84
+#EPISODIO: S01E85 - Capítulo 85|https://redeflixapi.store/serie/59092/1/85
+#EPISODIO: S01E86 - Capítulo 86|https://redeflixapi.store/serie/59092/1/86
+#EPISODIO: S01E87 - Capítulo 87|https://redeflixapi.store/serie/59092/1/87
+#EPISODIO: S01E88 - Capítulo 88|https://redeflixapi.store/serie/59092/1/88
+#EPISODIO: S01E89 - Capítulo 89|https://redeflixapi.store/serie/59092/1/89
+#EPISODIO: S01E90 - Capítulo 90|https://redeflixapi.store/serie/59092/1/90
+#EPISODIO: S01E91 - Capítulo 91|https://redeflixapi.store/serie/59092/1/91
+#EPISODIO: S01E92 - Capítulo 92|https://redeflixapi.store/serie/59092/1/92
+#EPISODIO: S01E93 - Capítulo 93|https://redeflixapi.store/serie/59092/1/93
+#EPISODIO: S01E94 - Capítulo 94|https://redeflixapi.store/serie/59092/1/94
+#EPISODIO: S01E95 - Capítulo 95|https://redeflixapi.store/serie/59092/1/95
+#EPISODIO: S01E96 - Capítulo 96|https://redeflixapi.store/serie/59092/1/96
+#EPISODIO: S01E97 - Capítulo 97|https://redeflixapi.store/serie/59092/1/97
+#EPISODIO: S01E98 - Capítulo 98|https://redeflixapi.store/serie/59092/1/98
+#EPISODIO: S01E99 - Capítulo 99|https://redeflixapi.store/serie/59092/1/99
+#EPISODIO: S01E100 - Capítulo 100|https://redeflixapi.store/serie/59092/1/100
+#EPISODIO: S01E101 - Capítulo 101|https://redeflixapi.store/serie/59092/1/101
+#EPISODIO: S01E102 - Capítulo 102|https://redeflixapi.store/serie/59092/1/102
+#EPISODIO: S01E103 - Capítulo 103|https://redeflixapi.store/serie/59092/1/103
+#EPISODIO: S01E104 - Capítulo 104|https://redeflixapi.store/serie/59092/1/104
+#EPISODIO: S01E105 - Capítulo 105|https://redeflixapi.store/serie/59092/1/105
+#EPISODIO: S01E106 - Capítulo 106|https://redeflixapi.store/serie/59092/1/106
+#EPISODIO: S01E107 - Capítulo 107|https://redeflixapi.store/serie/59092/1/107
+#EPISODIO: S01E108 - Capítulo 108|https://redeflixapi.store/serie/59092/1/108
+#EPISODIO: S01E109 - Capítulo 109|https://redeflixapi.store/serie/59092/1/109
+#EPISODIO: S01E110 - Capítulo 110|https://redeflixapi.store/serie/59092/1/110
+#EPISODIO: S01E111 - Capítulo 111|https://redeflixapi.store/serie/59092/1/111
+#EPISODIO: S01E112 - Capítulo 112|https://redeflixapi.store/serie/59092/1/112
+#EPISODIO: S01E113 - Capítulo 113|https://redeflixapi.store/serie/59092/1/113
+#EPISODIO: S01E114 - Capítulo 114|https://redeflixapi.store/serie/59092/1/114
+#EPISODIO: S01E115 - Capítulo 115|https://redeflixapi.store/serie/59092/1/115
+#EPISODIO: S01E116 - Capítulo 116|https://redeflixapi.store/serie/59092/1/116
+#EPISODIO: S01E117 - Capítulo 117|https://redeflixapi.store/serie/59092/1/117
+#EPISODIO: S01E118 - Capítulo 118|https://redeflixapi.store/serie/59092/1/118
+#EPISODIO: S01E119 - Capítulo 119|https://redeflixapi.store/serie/59092/1/119
+#EPISODIO: S01E120 - Capítulo 120|https://redeflixapi.store/serie/59092/1/120
+#EPISODIO: S01E121 - Capítulo 121|https://redeflixapi.store/serie/59092/1/121
+#EPISODIO: S01E122 - Capítulo 122|https://redeflixapi.store/serie/59092/1/122
+#EPISODIO: S01E123 - Capítulo 123|https://redeflixapi.store/serie/59092/1/123
+#EPISODIO: S01E124 - Capítulo 124|https://redeflixapi.store/serie/59092/1/124
+#EPISODIO: S01E125 - Capítulo 125|https://redeflixapi.store/serie/59092/1/125
+#EPISODIO: S01E126 - Capítulo 126|https://redeflixapi.store/serie/59092/1/126
+#EPISODIO: S01E127 - Capítulo 127|https://redeflixapi.store/serie/59092/1/127
+#EPISODIO: S01E128 - Capítulo 128|https://redeflixapi.store/serie/59092/1/128
+#EPISODIO: S01E129 - Capítulo 129|https://redeflixapi.store/serie/59092/1/129
+#EPISODIO: S01E130 - Capítulo 130|https://redeflixapi.store/serie/59092/1/130
+#EPISODIO: S01E131 - Capítulo 131|https://redeflixapi.store/serie/59092/1/131
+#EPISODIO: S01E132 - Capítulo 132|https://redeflixapi.store/serie/59092/1/132
+#EPISODIO: S01E133 - Capítulo 133|https://redeflixapi.store/serie/59092/1/133
+#EPISODIO: S01E134 - Capítulo 134|https://redeflixapi.store/serie/59092/1/134
+#EPISODIO: S01E135 - Capítulo 135|https://redeflixapi.store/serie/59092/1/135
+#EPISODIO: S01E136 - Capítulo 136|https://redeflixapi.store/serie/59092/1/136
+#EPISODIO: S01E137 - Capítulo 137|https://redeflixapi.store/serie/59092/1/137
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://image.tmdb.org/t/p/w500/qDIewnQCQyn9qfxyJ3oXkFBe9SJ.jpg", [SERIE] Agora é Que São Elas (2003)
+#SINOPSE: A trama é ambientada na fictícia São Francisco das Formigas, distrito de Bocaiúvas. Abandonada pelo poder municipal, representado pelo prefeito de Bocaiúvas, o poderoso Juca Tigre, São Francisco das Formigas começa a se organizar com a fundação da cooperativa União das Mulheres, liderada pela jovem Leonarda Mendes Galvão, a Léo. Com o tino empresarial de Léo, as mulheres da vila passam a obter crédito financeiro, compram máquinas novas e podem se manter atualizadas com as últimas novidades, fazendo de seu trabalho a principal atividade econômica de Formigas. O crescimento econômico desperta na população o desejo de se emancipar, já que a vila é vítima de constantes descasos da prefeitura. Juca Tigre, no entanto, opõe-se ferozmente à emancipação. O prefeito tem um motivo pessoal para abrir guerra contra Léo e São Francisco das Formigas. No passado, ele foi abandonado no altar por Antônia, mãe de Léo, que exerce forte liderança na comunidade.
+#EPISODIO: S01E01 - Capítulo 1|https://redeflixapi.store/serie/99137/1/1
+#EPISODIO: S01E02 - Capítulo 2|https://redeflixapi.store/serie/99137/1/2
+#EPISODIO: S01E03 - Capítulo 3|https://redeflixapi.store/serie/99137/1/3
+#EPISODIO: S01E04 - Capítulo 4|https://redeflixapi.store/serie/99137/1/4
+#EPISODIO: S01E05 - Capítulo 5|https://redeflixapi.store/serie/99137/1/5
+#EPISODIO: S01E06 - Capítulo 6|https://redeflixapi.store/serie/99137/1/6
+#EPISODIO: S01E07 - Capítulo 7|https://redeflixapi.store/serie/99137/1/7
+#EPISODIO: S01E08 - Capítulo 8|https://redeflixapi.store/serie/99137/1/8
+#EPISODIO: S01E09 - Capítulo 9|https://redeflixapi.store/serie/99137/1/9
+#EPISODIO: S01E10 - Capítulo 10|https://redeflixapi.store/serie/99137/1/10
+#EPISODIO: S01E11 - Capítulo 11|https://redeflixapi.store/serie/99137/1/11
+#EPISODIO: S01E12 - Capítulo 12|https://redeflixapi.store/serie/99137/1/12
+#EPISODIO: S01E13 - Capítulo 13|https://redeflixapi.store/serie/99137/1/13
+#EPISODIO: S01E14 - Capítulo 14|https://redeflixapi.store/serie/99137/1/14
+#EPISODIO: S01E15 - Capítulo 15|https://redeflixapi.store/serie/99137/1/15
+#EPISODIO: S01E16 - Capítulo 16|https://redeflixapi.store/serie/99137/1/16
+#EPISODIO: S01E17 - Capítulo 17|https://redeflixapi.store/serie/99137/1/17
+#EPISODIO: S01E18 - Capítulo 18|https://redeflixapi.store/serie/99137/1/18
+#EPISODIO: S01E19 - Capítulo 19|https://redeflixapi.store/serie/99137/1/19
+#EPISODIO: S01E20 - Capítulo 20|https://redeflixapi.store/serie/99137/1/20
+#EPISODIO: S01E21 - Capítulo 21|https://redeflixapi.store/serie/99137/1/21
+#EPISODIO: S01E22 - Capítulo 22|https://redeflixapi.store/serie/99137/1/22
+#EPISODIO: S01E23 - Capítulo 23|https://redeflixapi.store/serie/99137/1/23
+#EPISODIO: S01E24 - Capítulo 24|https://redeflixapi.store/serie/99137/1/24
+#EPISODIO: S01E25 - Capítulo 25|https://redeflixapi.store/serie/99137/1/25
+#EPISODIO: S01E26 - Capítulo 26|https://redeflixapi.store/serie/99137/1/26
+#EPISODIO: S01E27 - Capítulo 27|https://redeflixapi.store/serie/99137/1/27
+#EPISODIO: S01E28 - Capítulo 28|https://redeflixapi.store/serie/99137/1/28
+#EPISODIO: S01E29 - Capítulo 29|https://redeflixapi.store/serie/99137/1/29
+#EPISODIO: S01E30 - Capítulo 30|https://redeflixapi.store/serie/99137/1/30
+#EPISODIO: S01E31 - Capítulo 31|https://redeflixapi.store/serie/99137/1/31
+#EPISODIO: S01E32 - Capítulo 32|https://redeflixapi.store/serie/99137/1/32
+#EPISODIO: S01E33 - Capítulo 33|https://redeflixapi.store/serie/99137/1/33
+#EPISODIO: S01E34 - Capítulo 34|https://redeflixapi.store/serie/99137/1/34
+#EPISODIO: S01E35 - Capítulo 35|https://redeflixapi.store/serie/99137/1/35
+#EPISODIO: S01E36 - Capítulo 36|https://redeflixapi.store/serie/99137/1/36
+#EPISODIO: S01E37 - Capítulo 37|https://redeflixapi.store/serie/99137/1/37
+#EPISODIO: S01E38 - Capítulo 38|https://redeflixapi.store/serie/99137/1/38
+#EPISODIO: S01E39 - Capítulo 39|https://redeflixapi.store/serie/99137/1/39
+#EPISODIO: S01E40 - Capítulo 40|https://redeflixapi.store/serie/99137/1/40
+#EPISODIO: S01E41 - Capítulo 41|https://redeflixapi.store/serie/99137/1/41
+#EPISODIO: S01E42 - Capítulo 42|https://redeflixapi.store/serie/99137/1/42
+#EPISODIO: S01E43 - Capítulo 43|https://redeflixapi.store/serie/99137/1/43
+#EPISODIO: S01E44 - Capítulo 44|https://redeflixapi.store/serie/99137/1/44
+#EPISODIO: S01E45 - Capítulo 45|https://redeflixapi.store/serie/99137/1/45
+#EPISODIO: S01E46 - Capítulo 46|https://redeflixapi.store/serie/99137/1/46
+#EPISODIO: S01E47 - Capítulo 47|https://redeflixapi.store/serie/99137/1/47
+#EPISODIO: S01E48 - Capítulo 48|https://redeflixapi.store/serie/99137/1/48
+#EPISODIO: S01E49 - Capítulo 49|https://redeflixapi.store/serie/99137/1/49
+#EPISODIO: S01E50 - Capítulo 50|https://redeflixapi.store/serie/99137/1/50
+#EPISODIO: S01E51 - Capítulo 51|https://redeflixapi.store/serie/99137/1/51
+#EPISODIO: S01E52 - Capítulo 52|https://redeflixapi.store/serie/99137/1/52
+#EPISODIO: S01E53 - Capítulo 53|https://redeflixapi.store/serie/99137/1/53
+#EPISODIO: S01E54 - Capítulo 54|https://redeflixapi.store/serie/99137/1/54
+#EPISODIO: S01E55 - Capítulo 55|https://redeflixapi.store/serie/99137/1/55
+#EPISODIO: S01E56 - Capítulo 56|https://redeflixapi.store/serie/99137/1/56
+#EPISODIO: S01E57 - Capítulo 57|https://redeflixapi.store/serie/99137/1/57
+#EPISODIO: S01E58 - Capítulo 58|https://redeflixapi.store/serie/99137/1/58
+#EPISODIO: S01E59 - Capítulo 59|https://redeflixapi.store/serie/99137/1/59
+#EPISODIO: S01E60 - Capítulo 60|https://redeflixapi.store/serie/99137/1/60
+#EPISODIO: S01E61 - Capítulo 61|https://redeflixapi.store/serie/99137/1/61
+#EPISODIO: S01E62 - Capítulo 62|https://redeflixapi.store/serie/99137/1/62
+#EPISODIO: S01E63 - Capítulo 63|https://redeflixapi.store/serie/99137/1/63
+#EPISODIO: S01E64 - Capítulo 64|https://redeflixapi.store/serie/99137/1/64
+#EPISODIO: S01E65 - Capítulo 65|https://redeflixapi.store/serie/99137/1/65
+#EPISODIO: S01E66 - Capítulo 66|https://redeflixapi.store/serie/99137/1/66
+#EPISODIO: S01E67 - Capítulo 67|https://redeflixapi.store/serie/99137/1/67
+#EPISODIO: S01E68 - Capítulo 68|https://redeflixapi.store/serie/99137/1/68
+#EPISODIO: S01E69 - Capítulo 69|https://redeflixapi.store/serie/99137/1/69
+#EPISODIO: S01E70 - Capítulo 70|https://redeflixapi.store/serie/99137/1/70
+#EPISODIO: S01E71 - Capítulo 71|https://redeflixapi.store/serie/99137/1/71
+#EPISODIO: S01E72 - Capítulo 72|https://redeflixapi.store/serie/99137/1/72
+#EPISODIO: S01E73 - Capítulo 73|https://redeflixapi.store/serie/99137/1/73
+#EPISODIO: S01E74 - Capítulo 74|https://redeflixapi.store/serie/99137/1/74
+#EPISODIO: S01E75 - Capítulo 75|https://redeflixapi.store/serie/99137/1/75
+#EPISODIO: S01E76 - Capítulo 76|https://redeflixapi.store/serie/99137/1/76
+#EPISODIO: S01E77 - Capítulo 77|https://redeflixapi.store/serie/99137/1/77
+#EPISODIO: S01E78 - Capítulo 78|https://redeflixapi.store/serie/99137/1/78
+#EPISODIO: S01E79 - Capítulo 79|https://redeflixapi.store/serie/99137/1/79
+#EPISODIO: S01E80 - Capítulo 80|https://redeflixapi.store/serie/99137/1/80
+#EPISODIO: S01E81 - Capítulo 81|https://redeflixapi.store/serie/99137/1/81
+#EPISODIO: S01E82 - Capítulo 82|https://redeflixapi.store/serie/99137/1/82
+#EPISODIO: S01E83 - Capítulo 83|https://redeflixapi.store/serie/99137/1/83
+#EPISODIO: S01E84 - Capítulo 84|https://redeflixapi.store/serie/99137/1/84
+#EPISODIO: S01E85 - Capítulo 85|https://redeflixapi.store/serie/99137/1/85
+#EPISODIO: S01E86 - Capítulo 86|https://redeflixapi.store/serie/99137/1/86
+#EPISODIO: S01E87 - Capítulo 87|https://redeflixapi.store/serie/99137/1/87
+#EPISODIO: S01E88 - Capítulo 88|https://redeflixapi.store/serie/99137/1/88
+#EPISODIO: S01E89 - Capítulo 89|https://redeflixapi.store/serie/99137/1/89
+#EPISODIO: S01E90 - Capítulo 90|https://redeflixapi.store/serie/99137/1/90
+#EPISODIO: S01E91 - Capítulo 91|https://redeflixapi.store/serie/99137/1/91
+#EPISODIO: S01E92 - Capítulo 92|https://redeflixapi.store/serie/99137/1/92
+#EPISODIO: S01E93 - Capítulo 93|https://redeflixapi.store/serie/99137/1/93
+#EPISODIO: S01E94 - Capítulo 94|https://redeflixapi.store/serie/99137/1/94
+#EPISODIO: S01E95 - Capítulo 95|https://redeflixapi.store/serie/99137/1/95
+#EPISODIO: S01E96 - Capítulo 96|https://redeflixapi.store/serie/99137/1/96
+#EPISODIO: S01E97 - Capítulo 97|https://redeflixapi.store/serie/99137/1/97
+#EPISODIO: S01E98 - Capítulo 98|https://redeflixapi.store/serie/99137/1/98
+#EPISODIO: S01E99 - Capítulo 99|https://redeflixapi.store/serie/99137/1/99
+#EPISODIO: S01E100 - Capítulo 100|https://redeflixapi.store/serie/99137/1/100
+#EPISODIO: S01E101 - Capítulo 101|https://redeflixapi.store/serie/99137/1/101
+#EPISODIO: S01E102 - Capítulo 102|https://redeflixapi.store/serie/99137/1/102
+#EPISODIO: S01E103 - Capítulo 103|https://redeflixapi.store/serie/99137/1/103
+#EPISODIO: S01E104 - Capítulo 104|https://redeflixapi.store/serie/99137/1/104
+#EPISODIO: S01E105 - Capítulo 105|https://redeflixapi.store/serie/99137/1/105
+#EPISODIO: S01E106 - Capítulo 106|https://redeflixapi.store/serie/99137/1/106
+#EPISODIO: S01E107 - Capítulo 107|https://redeflixapi.store/serie/99137/1/107
+#EPISODIO: S01E108 - Capítulo 108|https://redeflixapi.store/serie/99137/1/108
+#EPISODIO: S01E109 - Capítulo 109|https://redeflixapi.store/serie/99137/1/109
+#EPISODIO: S01E110 - Capítulo 110|https://redeflixapi.store/serie/99137/1/110
+#EPISODIO: S01E111 - Capítulo 111|https://redeflixapi.store/serie/99137/1/111
+#EPISODIO: S01E112 - Capítulo 112|https://redeflixapi.store/serie/99137/1/112
+#EPISODIO: S01E113 - Capítulo 113|https://redeflixapi.store/serie/99137/1/113
+#EPISODIO: S01E114 - Capítulo 114|https://redeflixapi.store/serie/99137/1/114
+#EPISODIO: S01E115 - Capítulo 115|https://redeflixapi.store/serie/99137/1/115
+#EPISODIO: S01E116 - Capítulo 116|https://redeflixapi.store/serie/99137/1/116
+#EPISODIO: S01E117 - Capítulo 117|https://redeflixapi.store/serie/99137/1/117
+#EPISODIO: S01E118 - Capítulo 118|https://redeflixapi.store/serie/99137/1/118
+#EPISODIO: S01E119 - Capítulo 119|https://redeflixapi.store/serie/99137/1/119
+#EPISODIO: S01E120 - Capítulo 120|https://redeflixapi.store/serie/99137/1/120
+#EPISODIO: S01E121 - Capítulo 121|https://redeflixapi.store/serie/99137/1/121
+#EPISODIO: S01E122 - Capítulo 122|https://redeflixapi.store/serie/99137/1/122
+#EPISODIO: S01E123 - Capítulo 123|https://redeflixapi.store/serie/99137/1/123
+#EPISODIO: S01E124 - Capítulo 124|https://redeflixapi.store/serie/99137/1/124
+#EPISODIO: S01E125 - Capítulo 125|https://redeflixapi.store/serie/99137/1/125
+#EPISODIO: S01E126 - Capítulo 126|https://redeflixapi.store/serie/99137/1/126
+#EPISODIO: S01E127 - Capítulo 127|https://redeflixapi.store/serie/99137/1/127
+#EPISODIO: S01E128 - Capítulo 128|https://redeflixapi.store/serie/99137/1/128
+#EPISODIO: S01E129 - Capítulo 129|https://redeflixapi.store/serie/99137/1/129
+#EPISODIO: S01E130 - Capítulo 130|https://redeflixapi.store/serie/99137/1/130
+#EPISODIO: S01E131 - Capítulo 131|https://redeflixapi.store/serie/99137/1/131
+#EPISODIO: S01E132 - Capítulo 132|https://redeflixapi.store/serie/99137/1/132
+#EPISODIO: S01E133 - Capítulo 133|https://redeflixapi.store/serie/99137/1/133
+#EPISODIO: S01E134 - Capítulo 134|https://redeflixapi.store/serie/99137/1/134
+#EPISODIO: S01E135 - Capítulo 135|https://redeflixapi.store/serie/99137/1/135
+#EPISODIO: S01E136 - Capítulo 136|https://redeflixapi.store/serie/99137/1/136
+#EPISODIO: S01E137 - Capítulo 137|https://redeflixapi.store/serie/99137/1/137
+#EPISODIO: S01E138 - Capítulo 138|https://redeflixapi.store/serie/99137/1/138
+#EPISODIO: S01E139 - Capítulo 139|https://redeflixapi.store/serie/99137/1/139
+#EPISODIO: S01E140 - Capítulo 140|https://redeflixapi.store/serie/99137/1/140
+#EPISODIO: S01E141 - Capítulo 141|https://redeflixapi.store/serie/99137/1/141
+#EPISODIO: S01E142 - Capítulo 142|https://redeflixapi.store/serie/99137/1/142
+#EPISODIO: S01E143 - Capítulo 143|https://redeflixapi.store/serie/99137/1/143
 #EXTINF:-1 group-title="Novelas" tvg-logo="https://image.tmdb.org/t/p/w500/ySntcQ597xOKM4nuaJBAZeIck67.jpg", [SERIE] Além do Tempo (2015)
 #SINOPSE: A história de amor entre Lívia e Felipe. Almas gêmeas e vidas do século XIX se reencontram 150 anos depois e podem corrigir antigos erros.
 #EPISODIO: S01E01 - Capítulo 1|https://redeflixapi.store/serie/83595/1/1
